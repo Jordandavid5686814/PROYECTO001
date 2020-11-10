@@ -1,0 +1,31 @@
+<htm>
+<head>
+     <title>Mi Proyecto</title>
+</head>
+<body bigcolor="blue" text="black">
+      <h1> L'PETTIT</h1>
+      <p>"L'PETTIT NACIO DE UN PROYECTO DE ESTEBAN OSPINA CON UN PROPOSITO DE SER RECONOCIDO COMO UNO DE LOS MEJORES RESTAURANTES"
+          <h1> MISIÓN </h1>
+       Satisfacer las necesidades gastronómicas de nuestros clientes, ofreciendo alimentos y servicios con la más alta calidad, donde se sobrepasen las expectativas de nuestros clientes y ser un espacio de trabajo que permita la realización personal y el Desarrollo de sus colaboradores en el grupo.
+        Tomando como estrategia principal el mejoramiento continúo de los estrictos estándares de higiene y buen servicio en un ambiente seguro, agradable y familiar a un precio justo. </p>
+   <p>
+   <h2> VISIÓN </h2>
+   Ser reconocidos por brindar a nuestros clientes sensaciones agradables y momentos felices. Posicionarnos en el corazón de las familias palmiranas y de todos los que nos visitan.
+Contribuir y aportar nuestro granito de arena, para generar una colombia feliz y en paz; que brinde un mejor futuro a nuestras próximas generaciones.
+ </p>
+
+ <ing irc="images/dinosaur.jpg">
+
+ <ul>
+   <hl> METAS </h1>
+   <1i>L'pettit quiere hacer crecer mas su local y tener la oportunidad de tener varias sucursales en diferentes barrios para ser mas reconocidos por su buen sazon. </1i>
+   <1i>L'pettit aspira tener su propia casa para no seguir en arriendo. </1i>
+   <1i>L'pettit quiere ampliar su carta con platos del mundo. 
+   </1i>
+ </u1>
+
+ <button> click para la pagína siguiente </button>
+
+ </body>
+
+ </html>
